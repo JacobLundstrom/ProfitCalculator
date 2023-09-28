@@ -1,0 +1,15 @@
+C:\Users\jacob\source\repos\ProfitCalculator\bin\Debug\net6.0\ProfitCalculator.exe
+C:\Users\jacob\source\repos\ProfitCalculator\bin\Debug\net6.0\ProfitCalculator.deps.json
+C:\Users\jacob\source\repos\ProfitCalculator\bin\Debug\net6.0\ProfitCalculator.runtimeconfig.json
+C:\Users\jacob\source\repos\ProfitCalculator\bin\Debug\net6.0\ProfitCalculator.dll
+C:\Users\jacob\source\repos\ProfitCalculator\bin\Debug\net6.0\ProfitCalculator.pdb
+C:\Users\jacob\source\repos\ProfitCalculator\obj\Debug\net6.0\ProfitCalculator.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\ProfitCalculator\obj\Debug\net6.0\ProfitCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\ProfitCalculator\obj\Debug\net6.0\ProfitCalculator.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\ProfitCalculator\obj\Debug\net6.0\ProfitCalculator.AssemblyInfo.cs
+C:\Users\jacob\source\repos\ProfitCalculator\obj\Debug\net6.0\ProfitCalculator.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\ProfitCalculator\obj\Debug\net6.0\ProfitCalculator.dll
+C:\Users\jacob\source\repos\ProfitCalculator\obj\Debug\net6.0\refint\ProfitCalculator.dll
+C:\Users\jacob\source\repos\ProfitCalculator\obj\Debug\net6.0\ProfitCalculator.pdb
+C:\Users\jacob\source\repos\ProfitCalculator\obj\Debug\net6.0\ProfitCalculator.genruntimeconfig.cache
+C:\Users\jacob\source\repos\ProfitCalculator\obj\Debug\net6.0\ref\ProfitCalculator.dll
