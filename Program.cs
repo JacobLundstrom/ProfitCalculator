@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 class Program
 {
@@ -43,15 +43,9 @@ class Program
 
         double exaktVinst = vinstMedAvgift - skatt;
 
-        Console.WriteLine($"Den exakta vinsten med allt inräknat är: {exaktVinst} kr");
+        Console.WriteLine($"Den exakta vinsten med allt inräknat är: {exaktVinst} kr\n");
 
         Console.WriteLine("Tryck på valfri tangent för att avsluta...");
         Console.ReadKey();
     }
 }
-
-
-
-
-
-
