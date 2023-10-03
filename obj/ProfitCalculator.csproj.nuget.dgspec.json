@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jacob\\source\\repos\\ProfitCalculator\\ProfitCalculator.csproj": {}
+    "C:\\Users\\jacob\\Source\\Repos\\ProfitCalculator\\ProfitCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jacob\\source\\repos\\ProfitCalculator\\ProfitCalculator.csproj": {
+    "C:\\Users\\jacob\\Source\\Repos\\ProfitCalculator\\ProfitCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jacob\\source\\repos\\ProfitCalculator\\ProfitCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\jacob\\Source\\Repos\\ProfitCalculator\\ProfitCalculator.csproj",
         "projectName": "ProfitCalculator",
-        "projectPath": "C:\\Users\\jacob\\source\\repos\\ProfitCalculator\\ProfitCalculator.csproj",
+        "projectPath": "C:\\Users\\jacob\\Source\\Repos\\ProfitCalculator\\ProfitCalculator.csproj",
         "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jacob\\source\\repos\\ProfitCalculator\\obj\\",
+        "outputPath": "C:\\Users\\jacob\\Source\\Repos\\ProfitCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jacob\\AppData\\Roaming\\NuGet\\NuGet.Config",

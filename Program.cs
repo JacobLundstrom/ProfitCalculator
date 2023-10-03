@@ -46,8 +46,9 @@ class Program
         Console.WriteLine($"Klarnas avgift är: {klarnaAvgift} kr");
         Console.WriteLine($"Vinsten exklusive moms är: {vinstExklMoms} kr");
         Console.WriteLine($"Skatten är: {skatt} kr");
-        Console.WriteLine($"Vinsten inklusive Klarnas avgift är: {vinstMedAvgift} kr");
         Console.WriteLine($"Marknadsföringskostnaden är: {marknadsföringskostnadPerDag} kr");
+        Console.WriteLine($"\nInnan Ads blir vinsten: {vinstMedAvgift} kr");
+
 
         //if (såldaProdukterPerDag == 0)
         //{
